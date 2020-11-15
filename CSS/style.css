@@ -1,0 +1,36 @@
+body {
+  background-color: #9df3c4;
+}
+
+hr {
+  align='center';
+  width="80%";
+  size="2";
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #d7fbe8;
+  border-width: 10px;
+  width: 8%;
+}
+
+h1 {
+  color: black;
+}
+
+h3 {
+  color: #1fab89;
+}
+
+img {
+  border-radius: 65px;
+}
+
+#name {
+  font-size: 50px;
+  font-family: cursive;
+  color: #1fab89;
+}
+
+.profile:hover {
+  background-color: #d7fbe8;
+}
